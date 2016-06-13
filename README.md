@@ -1,3 +1,5 @@
+# It's just a dummy fork with empty commits
+
 # ack 2.0
 
 ack is a code-searching tool, similar to grep but optimized for
